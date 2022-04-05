@@ -1,6 +1,6 @@
 # Win4blast
 A simple GUI to run blast on local databases  (Python3 and wx.python)
-![image](https://user-images.githubusercontent.com/102952395/161800947-4cbee506-3fd8-4fa8-915f-df87102e6605.png)
+![image](https://user-images.githubusercontent.com/102952395/161804233-8e921db9-6a4e-4395-b123-fa3a5a8bd9d2.png)
 
 What you have to do :
 
